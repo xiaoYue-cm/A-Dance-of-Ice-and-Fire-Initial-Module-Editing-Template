@@ -8,5 +8,5 @@ This in itself is an initial editable out-of-the-box editing template for those 
 https://github.com/xiaoYue-cm/A-Dance-of-Ice-and-Fire-Initial-Module-Editing-Template/releases
 
 # 参考作者
-[从零开发冰与火之舞mod第一集] for by 词小芊 
+【从零开发冰与火之舞mod第一集】 for by 词小芊 
 视频链接：https://www.bilibili.com/video/BV1zeqPBKEh7/?share_source=copy_web&vd_source=3c6bc248dfc12c3336dd9a57c1427057
