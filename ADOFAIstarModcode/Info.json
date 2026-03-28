@@ -5,7 +5,7 @@
   "Author": "user",
   "Version": "1.0.0",
   "ManagerVersion": "0.22.0",
-  "AssemblyName": "ADOFAImod.dll",
+  "AssemblyName": "AODFAImod.dll",
   "EntryMethod": "ADOFAImod.main.Load",
   "Remarks": ""
 }
