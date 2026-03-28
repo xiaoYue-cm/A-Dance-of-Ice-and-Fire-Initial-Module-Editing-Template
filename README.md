@@ -4,8 +4,9 @@
 这本身是一个给接触C#和冰与火之舞mod的初始化可编辑开箱即用的编辑模板
 This in itself is an initial editable out-of-the-box editing template for those who are getting started with C# and the Dance of Ice and Fire mod.
 
-下载地址是
+下载地址
 https://github.com/xiaoYue-cm/A-Dance-of-Ice-and-Fire-Initial-Module-Editing-Template/releases
 
 # 参考作者
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115848639420654&bvid=BV1zeqPBKEh7&cid=35229141504&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+[从零开发冰与火之舞mod第一集] for by 词小芊 
+视频链接：https://www.bilibili.com/video/BV1zeqPBKEh7/?share_source=copy_web&vd_source=3c6bc248dfc12c3336dd9a57c1427057
