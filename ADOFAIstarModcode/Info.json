@@ -1,0 +1,23 @@
+﻿{
+  "Id": "ADOFAImod",
+  "DisplayName": "ADOFAImod",
+  "DisalayName": "一个冰与火之舞mod",
+  "Author": "user",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.22.0",
+  "AssemblyName": "ADOFAImod.dll",
+  "EntryMethod": "ADOFAImod.main.Load",
+  "Remarks": ""
+}
+// "Id"             模组ID,必须唯一，不能包含空格和特殊字符喵
+// "DisplayName"    模组显示名称，可以包含空格和特殊字符喵
+// "DisaplayName"   模组名称，可以包含空格和特殊字符喵
+// "Author"         模组作者，可以包含空格和特殊字符喵
+// "Version"        模组版本，必须符合语义化版本规范喵
+// "ManagerVersion" 模组管理器版本，必须符合语义化版本规范喵
+// "AssemblyName"   模组程序集名称，必须与编译生成的DLL文件名一致（不包含扩展名）喵
+// "EntryMethod"    模组入口方法，必须包含命名空间、类名和方法名，格式为 "模组ID.类.Load"喵
+// "Remarks"        模组备注，鬼知道我添加这个字段是干什么的,或许可以用来记录一些模组相关的信息，比如更新日志、已知问题等等，当然也可以删除或者不填，留空就行了喵
+
+// 一般来说你还需编辑Proerties/AssemblyInfo.cs文件，修改其中的信息喵，你也可以懒得不改喵
+// 生成方法后，打包成zip需要把这段注释删除，否则会导致模组无法加载，因为游戏启动后会尝试解析这段注释，从而导致错误发生喵
