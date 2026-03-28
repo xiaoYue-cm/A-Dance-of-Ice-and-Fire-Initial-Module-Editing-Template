@@ -6,3 +6,6 @@ This in itself is an initial editable out-of-the-box editing template for those 
 
 下载地址是
 https://github.com/xiaoYue-cm/A-Dance-of-Ice-and-Fire-Initial-Module-Editing-Template/releases
+
+# 参考作者
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115848639420654&bvid=BV1zeqPBKEh7&cid=35229141504&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
